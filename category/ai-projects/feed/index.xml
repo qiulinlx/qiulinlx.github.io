@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI Projects &#8211; Q&#039;s rambles</title>
+	<atom:link href="/category/ai-projects/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 17 Mar 2024 20:47:21 +0000</lastBuildDate>
+	<language>en-ZA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/03/CuteFreeVectorCactus.jpg</url>
+	<title>AI Projects &#8211; Q&#039;s rambles</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Using Spectral methods to numerically solve the Nonlinear DiracModel</title>
+		<link>/2024/03/17/using-spectral-methods-to-numerically-solve-the-nonlinear-diracmodel/</link>
+					<comments>/2024/03/17/using-spectral-methods-to-numerically-solve-the-nonlinear-diracmodel/#respond</comments>
+		
+		<dc:creator><![CDATA[ada.li]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 20:47:21 +0000</pubDate>
+				<category><![CDATA[AI Projects]]></category>
+		<guid isPermaLink="false">/?p=68</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden class="wp-block-file__embed" data="/wp-content/uploads/2024/03/Spectral1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Spectral1."></object><a id="wp-block-file--media-e9a24535-9cab-4771-9bc6-5e4df86b2ba4" href="/wp-content/uploads/2024/03/Spectral1.pdf">Spectral1</a><a href="/wp-content/uploads/2024/03/Spectral1.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-e9a24535-9cab-4771-9bc6-5e4df86b2ba4">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/03/17/using-spectral-methods-to-numerically-solve-the-nonlinear-diracmodel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>INVESTIGATING THE CHAOS INDICATOR: MEGNO</title>
+		<link>/2024/03/17/investigating-the-chaos-indicator-megno/</link>
+					<comments>/2024/03/17/investigating-the-chaos-indicator-megno/#respond</comments>
+		
+		<dc:creator><![CDATA[ada.li]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 20:45:14 +0000</pubDate>
+				<category><![CDATA[AI Projects]]></category>
+		<guid isPermaLink="false">/?p=65</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden class="wp-block-file__embed" data="/wp-content/uploads/2024/03/FinalProject-MEGNO-LXXQIU001.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of FinalProject-MEGNO-LXXQIU001."></object><a id="wp-block-file--media-0428cf4e-70ac-4a86-8105-4ccf0f813477" href="/wp-content/uploads/2024/03/FinalProject-MEGNO-LXXQIU001.pdf">FinalProject-MEGNO-LXXQIU001</a><a href="/wp-content/uploads/2024/03/FinalProject-MEGNO-LXXQIU001.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-0428cf4e-70ac-4a86-8105-4ccf0f813477">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/03/17/investigating-the-chaos-indicator-megno/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>THE ROLE OF TECHNOLOGY IN REDUCING GREENHOUSE GAS EMISSIONS: WILL IT SAVE HUMANITY?</title>
+		<link>/2024/03/17/the-role-of-technology-in-reducing-greenhouse-gas-emissions-will-it-save-humanity/</link>
+					<comments>/2024/03/17/the-role-of-technology-in-reducing-greenhouse-gas-emissions-will-it-save-humanity/#respond</comments>
+		
+		<dc:creator><![CDATA[ada.li]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 20:35:25 +0000</pubDate>
+				<category><![CDATA[AI Projects]]></category>
+		<guid isPermaLink="false">/?p=58</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden class="wp-block-file__embed" data="/wp-content/uploads/2024/03/Research-Essay-Qiulin-Li.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Research-Essay-Qiulin-Li."></object><a id="wp-block-file--media-6deae593-fa78-4849-ae6a-2175a34c7d04" href="/wp-content/uploads/2024/03/Research-Essay-Qiulin-Li.pdf">Research-Essay-Qiulin-Li</a><a href="/wp-content/uploads/2024/03/Research-Essay-Qiulin-Li.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-6deae593-fa78-4849-ae6a-2175a34c7d04">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/03/17/the-role-of-technology-in-reducing-greenhouse-gas-emissions-will-it-save-humanity/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>INVESTIGATING THE EFFECTS OF ALTERED FIRE REGIMES ON THE DISTRIBUTION OF THE CAPE SUGARBIRD (PROMEROPS CAFER) ON THE CAPE PENINSULA,</title>
+		<link>/2024/03/17/investigating-the-effects-of-altered-fire-regimes-on-the-distribution-of-the-cape-sugarbird-promerops-cafer-on-the-cape-peninsula/</link>
+					<comments>/2024/03/17/investigating-the-effects-of-altered-fire-regimes-on-the-distribution-of-the-cape-sugarbird-promerops-cafer-on-the-cape-peninsula/#respond</comments>
+		
+		<dc:creator><![CDATA[ada.li]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 20:34:39 +0000</pubDate>
+				<category><![CDATA[AI Projects]]></category>
+		<guid isPermaLink="false">/?p=54</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden class="wp-block-file__embed" data="/wp-content/uploads/2024/03/BIO3019S-project.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of BIO3019S-project."></object><a id="wp-block-file--media-3e9187c2-940f-4bcd-b621-f71c151ca474" href="/wp-content/uploads/2024/03/BIO3019S-project.pdf">BIO3019S-project</a><a href="/wp-content/uploads/2024/03/BIO3019S-project.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-3e9187c2-940f-4bcd-b621-f71c151ca474">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/03/17/investigating-the-effects-of-altered-fire-regimes-on-the-distribution-of-the-cape-sugarbird-promerops-cafer-on-the-cape-peninsula/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ADVANCED TOPICS IN REINFORCEMENT LEARNING: LIFELONG LEARNING</title>
+		<link>/2024/03/17/advanced-topics-in-reinforcement-learning-lifelong-learning/</link>
+					<comments>/2024/03/17/advanced-topics-in-reinforcement-learning-lifelong-learning/#respond</comments>
+		
+		<dc:creator><![CDATA[ada.li]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 20:21:05 +0000</pubDate>
+				<category><![CDATA[AI Projects]]></category>
+		<guid isPermaLink="false">/?p=48</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden class="wp-block-file__embed" data="/wp-content/uploads/2024/03/Advanced_topics_RL_Qiulin_Li.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Advanced_topics_RL_Qiulin_Li."></object><a id="wp-block-file--media-c1d417ea-e3be-457a-a7b2-5b8de31d1b7d" href="/wp-content/uploads/2024/03/Advanced_topics_RL_Qiulin_Li.pdf">Advanced_topics_RL_Qiulin_Li</a><a href="/wp-content/uploads/2024/03/Advanced_topics_RL_Qiulin_Li.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-c1d417ea-e3be-457a-a7b2-5b8de31d1b7d">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/03/17/advanced-topics-in-reinforcement-learning-lifelong-learning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>USING SEQUENCE MODELS TO ANNOTATE LONG PROTEIN SEQUENCES</title>
+		<link>/2024/03/17/using-sequence-models-to-annotate-long-protein-sequences/</link>
+					<comments>/2024/03/17/using-sequence-models-to-annotate-long-protein-sequences/#respond</comments>
+		
+		<dc:creator><![CDATA[ada.li]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 20:19:14 +0000</pubDate>
+				<category><![CDATA[AI Projects]]></category>
+		<guid isPermaLink="false">/?p=45</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden class="wp-block-file__embed" data="/wp-content/uploads/2024/03/Honours_Thesis-5.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Honours_Thesis-5."></object><a id="wp-block-file--media-aa1aef7b-0946-469e-9a85-e36c127d390d" href="/wp-content/uploads/2024/03/Honours_Thesis-5.pdf">Honours_Thesis-5</a><a href="/wp-content/uploads/2024/03/Honours_Thesis-5.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-aa1aef7b-0946-469e-9a85-e36c127d390d">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/03/17/using-sequence-models-to-annotate-long-protein-sequences/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NEURAL NETWORKS TO PREDICT CHRONOLOGICAL AGE USING DNA METHYLATION DATA</title>
+		<link>/2024/03/17/neural-networks-to-predict-chronological-age-using-dna-methylation-data/</link>
+					<comments>/2024/03/17/neural-networks-to-predict-chronological-age-using-dna-methylation-data/#respond</comments>
+		
+		<dc:creator><![CDATA[ada.li]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 14:31:47 +0000</pubDate>
+				<category><![CDATA[AI Projects]]></category>
+		<guid isPermaLink="false">/?p=27</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div data-wp-interactive="" class="wp-block-file"><object data-wp-bind--hidden="!selectors.core.file.hasPdfPreview" hidden class="wp-block-file__embed" data="/wp-content/uploads/2024/03/AppMam_Project-1-1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Neural_Nets_DNA."></object><a id="wp-block-file--media-96aa298a-6afa-4abb-a322-64eafea5be7f" href="/wp-content/uploads/2024/03/AppMam_Project-1-1.pdf">Neural_Nets_DNA</a><a href="/wp-content/uploads/2024/03/AppMam_Project-1-1.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-96aa298a-6afa-4abb-a322-64eafea5be7f">Download</a></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/03/17/neural-networks-to-predict-chronological-age-using-dna-methylation-data/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
